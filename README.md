@@ -1,1 +1,1 @@
-# E-Organizer
+# E-Organizer application, is designed to be a user-friendly tool that helps individuals and teams organize their schedules and events efficiently. It allows users to easily create events with essential details, categorize them for better management (like "Office Meeting" or "Personal"), and potentially set up reminders and view their schedule in a calendar format. The app aims for simplicity, making it easy to manage meetings, dates, and other events without unnecessary complexity. Future features might include collaboration options and customizable settings.
